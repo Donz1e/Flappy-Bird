@@ -1,0 +1,353 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1720206075311540, "dur":20518, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1720206075332069, "dur":138, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1720206075332246, "dur":425, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1720206075332688, "dur":2873, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1720206075335562, "dur":7004794, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1720206082340357, "dur":269, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1720206082340626, "dur":51, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1720206082340878, "dur":2287, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1720206075332759, "dur":2818, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1720206075335581, "dur":573, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1720206075336154, "dur":3250, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1720206075339413, "dur":246, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.35f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":1, "ts":1720206075339404, "dur":256, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1720206075391886, "dur":2808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1720206075394729, "dur":6945644, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720206075332831, "dur":2766, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720206075335600, "dur":597, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720206075336198, "dur":3202, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720206075339403, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1720206075339528, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720206075353190, "dur":1108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1720206075354343, "dur":162, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720206075354525, "dur":1774, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720206075356340, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720206075356444, "dur":2297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720206075358812, "dur":2915, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720206075361774, "dur":2884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720206075364711, "dur":3644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720206075368452, "dur":3036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720206075371522, "dur":144, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720206075371690, "dur":3073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720206075374858, "dur":3426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720206075378328, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720206075378418, "dur":3391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720206075381862, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720206075381960, "dur":3743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720206075385743, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720206075385817, "dur":3292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720206075389165, "dur":96, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.35f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720206075389163, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720206075389294, "dur":19262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720206075408611, "dur":6931752, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720206075332753, "dur":2815, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720206075335571, "dur":3799, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720206075380080, "dur":718, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":3, "ts":1720206075380802, "dur":111, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1720206075380920, "dur":10550, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1720206075391737, "dur":90, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player28b4ce2c-inputdata.json" }}
+,{ "pid":12345, "tid":3, "ts":1720206075380801, "dur":11186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1720206075392393, "dur":57, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720206075393015, "dur":129340, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1720206075525906, "dur":90, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1720206075525904, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1720206075526019, "dur":851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1720206075526872, "dur":6813480, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720206075332796, "dur":2790, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720206075335590, "dur":618, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720206075336209, "dur":3178, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720206075339392, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1720206075340982, "dur":2415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1720206075343435, "dur":78, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.35f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1720206075343433, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1720206075343515, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720206075343800, "dur":1215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1720206075345044, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1720206075345463, "dur":1355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1720206075346867, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1720206075347460, "dur":3180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1720206075350680, "dur":188, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720206075350919, "dur":1495, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720206075352490, "dur":1883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720206075354412, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720206075354522, "dur":2161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720206075356722, "dur":284, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720206075357026, "dur":1850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720206075358930, "dur":3160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720206075362143, "dur":2268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720206075364463, "dur":3699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720206075368199, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720206075368287, "dur":2889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720206075371213, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720206075371302, "dur":3155, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720206075374502, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720206075374596, "dur":3503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720206075378202, "dur":3438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720206075381679, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720206075381815, "dur":3105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720206075385019, "dur":3679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720206075388787, "dur":3197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720206075392155, "dur":2085, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1720206075394293, "dur":6946065, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720206075332865, "dur":2739, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720206075335608, "dur":602, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720206075336210, "dur":3185, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720206075339398, "dur":186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1720206075362470, "dur":1358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1720206075363880, "dur":3607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720206075367527, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720206075367618, "dur":2335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720206075370061, "dur":3228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720206075373449, "dur":3068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720206075376554, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720206075376675, "dur":3707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720206075380427, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720206075380562, "dur":2664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720206075383269, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720206075383370, "dur":3644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720206075387053, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720206075387135, "dur":3444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720206075390672, "dur":2821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":5, "ts":1720206075393556, "dur":5899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1720206075399518, "dur":6940863, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1720206075332891, "dur":2725, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1720206075335620, "dur":567, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1720206075336187, "dur":3203, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1720206075339396, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1720206075340965, "dur":2508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1720206075343504, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1720206075343822, "dur":1248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1720206075345102, "dur":69, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.35f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1720206075345100, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1720206075345401, "dur":1562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1720206075347478, "dur":3107, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":6, "ts":1720206075350620, "dur":246, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1720206075350913, "dur":1529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1720206075352508, "dur":2138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1720206075354741, "dur":2941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1720206075357764, "dur":2885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":6, "ts":1720206075360702, "dur":2966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":6, "ts":1720206075363741, "dur":4003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":6, "ts":1720206075367781, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1720206075367875, "dur":2301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1720206075370266, "dur":3365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1720206075373726, "dur":3237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1720206075377006, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1720206075377087, "dur":3576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1720206075380763, "dur":3324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1720206075384125, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1720206075384230, "dur":8551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1720206075392897, "dur":3680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/level1" }}
+,{ "pid":12345, "tid":6, "ts":1720206075396610, "dur":6943751, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720206075332927, "dur":2697, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720206075335627, "dur":603, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720206075336230, "dur":3163, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720206075339405, "dur":182, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.35f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":7, "ts":1720206075339393, "dur":195, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1720206075339589, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720206075372983, "dur":1046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1720206075374068, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720206075374149, "dur":3338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1720206075377526, "dur":213, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720206075377784, "dur":3925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1720206075381813, "dur":4375, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1720206075386222, "dur":134, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720206075386393, "dur":3633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1720206075390076, "dur":13937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1720206075404053, "dur":6936326, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1720206075332958, "dur":2674, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1720206075335635, "dur":673, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1720206075336309, "dur":3128, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1720206075339450, "dur":237, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.35f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1720206075339438, "dur":250, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1720206075379463, "dur":1379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1720206075380879, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1720206075380970, "dur":2519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1720206075383522, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1720206075383647, "dur":3479, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1720206075387167, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1720206075387250, "dur":3541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1720206075390864, "dur":2712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1720206075393639, "dur":3611, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1720206075397282, "dur":6943092, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1720206075332996, "dur":2644, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1720206075335643, "dur":574, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1720206075336218, "dur":3197, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1720206075339416, "dur":309, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1720206075392780, "dur":2143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1720206075394952, "dur":6945420, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1720206075333022, "dur":2631, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1720206075335658, "dur":78, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1720206075335736, "dur":3662, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1720206075339400, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1720206075352196, "dur":1295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1720206075353584, "dur":1692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":10, "ts":1720206075355396, "dur":2655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1720206075358153, "dur":2527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":10, "ts":1720206075360736, "dur":2872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":10, "ts":1720206075363664, "dur":3260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":10, "ts":1720206075367023, "dur":2282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1720206075369369, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1720206075369444, "dur":3123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1720206075372654, "dur":3003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1720206075375743, "dur":3453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1720206075379326, "dur":3158, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1720206075382529, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1720206075382595, "dur":3525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1720206075386207, "dur":3046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1720206075389317, "dur":1711, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":10, "ts":1720206075391070, "dur":2117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":10, "ts":1720206075393248, "dur":2076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/level0" }}
+,{ "pid":12345, "tid":10, "ts":1720206075395355, "dur":6945014, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1720206075333056, "dur":2616, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1720206075335672, "dur":3703, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1720206075339395, "dur":161, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1720206075339569, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1720206075363052, "dur":1220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/app.info" }}
+,{ "pid":12345, "tid":11, "ts":1720206075364292, "dur":3808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1720206075368188, "dur":2727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1720206075371009, "dur":3089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1720206075374191, "dur":3307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1720206075377536, "dur":209, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1720206075377788, "dur":3429, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1720206075381311, "dur":2799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1720206075384224, "dur":3133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1720206075387398, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1720206075387522, "dur":3835, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1720206075391393, "dur":80, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":11, "ts":1720206075391393, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":11, "ts":1720206075391492, "dur":2931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":11, "ts":1720206075394454, "dur":6945900, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1720206075333087, "dur":2598, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1720206075335685, "dur":3694, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1720206075339399, "dur":112, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.35f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1720206075339380, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1720206075340166, "dur":3964, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1720206075344174, "dur":75, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.35f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1720206075344172, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1720206075344251, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1720206075344389, "dur":1110, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1720206075345541, "dur":74, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.35f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":12, "ts":1720206075345527, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":12, "ts":1720206075345616, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1720206075345800, "dur":6515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":12, "ts":1720206075352398, "dur":1289, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":12, "ts":1720206075353724, "dur":176, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1720206075353917, "dur":1444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":12, "ts":1720206075355453, "dur":2188, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":12, "ts":1720206075357767, "dur":1827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":12, "ts":1720206075359652, "dur":2978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":12, "ts":1720206075362684, "dur":2562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":12, "ts":1720206075365338, "dur":3134, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":12, "ts":1720206075368502, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1720206075368594, "dur":2819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1720206075371452, "dur":200, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1720206075371687, "dur":2987, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1720206075374715, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1720206075374820, "dur":3405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1720206075378303, "dur":3108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1720206075381505, "dur":2892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1720206075384491, "dur":3241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1720206075387774, "dur":147, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1720206075387939, "dur":3785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1720206075391780, "dur":2676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":12, "ts":1720206075394489, "dur":6945861, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1720206075333111, "dur":2584, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1720206075335695, "dur":3682, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1720206075339653, "dur":76, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\joe27\\Downloads\\Unity\\Project\\2D\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":13, "ts":1720206075339730, "dur":63, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\joe27\\Downloads\\Unity\\Project\\2D\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1720206075339793, "dur":186, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\joe27\\Downloads\\Unity\\Project\\2D\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":13, "ts":1720206075339980, "dur":360, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\joe27\\Downloads\\Unity\\Project\\2D\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":13, "ts":1720206075340341, "dur":87, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\joe27\\Downloads\\Unity\\Project\\2D\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1720206075340429, "dur":93, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\joe27\\Downloads\\Unity\\Project\\2D\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":13, "ts":1720206075340524, "dur":323, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\joe27\\Downloads\\Unity\\Project\\2D\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":13, "ts":1720206075340848, "dur":72, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\joe27\\Downloads\\Unity\\Project\\2D\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":13, "ts":1720206075340920, "dur":101, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\joe27\\Downloads\\Unity\\Project\\2D\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1720206075341023, "dur":268, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\joe27\\Downloads\\Unity\\Project\\2D\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":13, "ts":1720206075341292, "dur":167, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\joe27\\Downloads\\Unity\\Project\\2D\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":13, "ts":1720206075341461, "dur":927, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\joe27\\Downloads\\Unity\\Project\\2D\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":13, "ts":1720206075342389, "dur":69, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\joe27\\Downloads\\Unity\\Project\\2D\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":13, "ts":1720206075342459, "dur":417, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\joe27\\Downloads\\Unity\\Project\\2D\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Collections.dll" }}
+,{ "pid":12345, "tid":13, "ts":1720206075342878, "dur":191, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\joe27\\Downloads\\Unity\\Project\\2D\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1720206075343070, "dur":106, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\joe27\\Downloads\\Unity\\Project\\2D\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":13, "ts":1720206075343178, "dur":651, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\joe27\\Downloads\\Unity\\Project\\2D\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":13, "ts":1720206075343830, "dur":345, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\joe27\\Downloads\\Unity\\Project\\2D\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":13, "ts":1720206075344177, "dur":90, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\joe27\\Downloads\\Unity\\Project\\2D\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":13, "ts":1720206075344270, "dur":66, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\joe27\\Downloads\\Unity\\Project\\2D\\Flappy Bird\\Library\\PackageCache\\com.unity.collections@1.2.4\\Unity.Collections.LowLevel.ILSupport\\Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":13, "ts":1720206075344338, "dur":124, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\joe27\\Downloads\\Unity\\Project\\2D\\Flappy Bird\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1720206075344463, "dur":71, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\joe27\\Downloads\\Unity\\Project\\2D\\Flappy Bird\\Library\\PackageCache\\com.unity.burst@1.8.16\\Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":13, "ts":1720206075344670, "dur":170334, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\joe27\\Downloads\\Unity\\Project\\2D\\Flappy Bird\\Library\\PackageCache\\com.unity.burst@1.8.16\\.Runtime\\bcl.exe" }}
+,{ "pid":12345, "tid":13, "ts":1720206075339381, "dur":175628, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":13, "ts":1720206075515019, "dur":65, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1720206075516424, "dur":6806535, "ph":"X", "name": "GenerateNativePluginsForAssemblies",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":13, "ts":1720206082325123, "dur":13721, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\AsyncPluginsFromLinker\\x86_64\\lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":13, "ts":1720206082325122, "dur":13724, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":13, "ts":1720206082339253, "dur":1034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":14, "ts":1720206075333136, "dur":2568, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1720206075335705, "dur":3692, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1720206075339409, "dur":128, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.35f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1720206075339397, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1720206075354100, "dur":52, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1720206075352435, "dur":1727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1720206075354205, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1720206075354278, "dur":100, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1720206075354389, "dur":2286, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":14, "ts":1720206075356715, "dur":289, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1720206075357023, "dur":1995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":14, "ts":1720206075359072, "dur":3396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":14, "ts":1720206075362590, "dur":2601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":14, "ts":1720206075365249, "dur":3669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":14, "ts":1720206075368949, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1720206075369054, "dur":3231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1720206075372372, "dur":3050, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1720206075375517, "dur":3552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1720206075379104, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1720206075379233, "dur":3720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1720206075383046, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1720206075383119, "dur":3834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1720206075386996, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1720206075387076, "dur":2993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1720206075390123, "dur":10811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":14, "ts":1720206075400970, "dur":6939410, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1720206075333170, "dur":2538, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1720206075335709, "dur":3675, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1720206075339402, "dur":115, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.35f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":15, "ts":1720206075339389, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":15, "ts":1720206075341520, "dur":1692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":15, "ts":1720206075343256, "dur":154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":15, "ts":1720206075343848, "dur":1061, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":15, "ts":1720206075344946, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1720206075345056, "dur":1319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1720206075346483, "dur":1340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird.exe" }}
+,{ "pid":12345, "tid":15, "ts":1720206075347958, "dur":2291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":15, "ts":1720206075350325, "dur":2582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":15, "ts":1720206075352951, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1720206075353021, "dur":1619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":15, "ts":1720206075354675, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1720206075354744, "dur":3117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":15, "ts":1720206075357913, "dur":2361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":15, "ts":1720206075360335, "dur":3203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":15, "ts":1720206075363593, "dur":3581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":15, "ts":1720206075367211, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1720206075367323, "dur":2380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1720206075369800, "dur":3426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1720206075373266, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1720206075373450, "dur":3589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1720206075377096, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1720206075377172, "dur":3887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1720206075381099, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1720206075381250, "dur":3957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1720206075385244, "dur":152, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1720206075385416, "dur":3528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1720206075389012, "dur":110, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1720206075389138, "dur":4724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1720206075393921, "dur":7182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/Flappy Bird_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":15, "ts":1720206075401150, "dur":6939226, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1720206075333199, "dur":2523, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1720206075335722, "dur":3718, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1720206075339440, "dur":336, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1720206075393250, "dur":2596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/joe27/Downloads/Unity/Done/2D/Flappy Bird/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1720206075395882, "dur":6944484, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1720206082346881, "dur":1039, "ph":"X", "name": "ProfilerWriteOutput" }
+,
